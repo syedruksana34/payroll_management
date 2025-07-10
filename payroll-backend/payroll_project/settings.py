@@ -39,7 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'payroll',
-    'payroll_app',
     'corsheaders',
     'rest_framework.authtoken',
 ]
