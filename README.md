@@ -12,7 +12,6 @@ A full-stack web application designed to manage employee payrolls efficiently. T
 ## 📌 Features
 
 - 🧑‍💼 Employee Management (Add, Edit, Delete)
-- ⏰ Attendance Tracking
 - 💰 Salary Calculation
 - 📄 Payslip Generation & Download
 - 🔐 Admin Login Authentication
