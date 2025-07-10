@@ -25,30 +25,26 @@ A full-stack web application designed to manage employee payrolls efficiently. T
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/payroll-management-system.git
+
 2. Frontend Setup
 bash
-Copy
-Edit
 cd payroll-frontend
 npm install
 npm start
+
 3. Backend Setup
 bash
-Copy
-Edit
 cd payroll-backend
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 pip install -r requirements.txt
 python manage.py runserver
+
 4. MySQL Configuration
 Create a MySQL database (e.g. payroll_db)
-
 Update database settings in payroll_project/settings.py
 
 python
-Copy
-Edit
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -59,13 +55,13 @@ DATABASES = {
         'PORT': '3306',
     }
 }
+
 5. Migrate and Create Superuser
 bash
-Copy
-Edit
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
+
 🧪 Testing
 You can test the features via:
 
@@ -75,12 +71,11 @@ Frontend: http://localhost:3000/
 
 📁 Project Structure
 perl
-Copy
-Edit
 payroll-management-system/
 ├── payroll-frontend/    # React frontend code
 ├── payroll-backend/     # Django backend code
 └── README.md
+
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
