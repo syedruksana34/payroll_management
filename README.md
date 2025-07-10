@@ -19,8 +19,8 @@ password-sharuk@14
 **Frontend:** React.js, HTML5, CSS3, Bootstrap  
 **Backend:** Django (Python)  
 **Database:** MySQL  
-**API:** RESTful APIs (Django REST Framework)
 **Deployment:** Render.com, Whitenoise
+**API:** RESTful APIs (Django REST Framework)
 
 ## 📌 Features
 
