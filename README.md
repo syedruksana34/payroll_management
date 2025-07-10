@@ -6,11 +6,13 @@ A full-stack web application designed to manage employee payrolls efficiently. T
 
 🔗 https://payroll-system-jp4s.onrender.com
 
-🔗 https://payroll-system-jp4s.onrender.com/admin/ ( to add new users and manage permissions)
-
 🔐 Test Credentials
+
 username-ruksana
+
 password-sharuk@14
+
+🔗 https://payroll-system-jp4s.onrender.com/admin/ ( to add new users and manage permissions)
 
 ## 🛠️ Tech Stack
 
