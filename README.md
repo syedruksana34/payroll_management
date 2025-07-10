@@ -1,6 +1,6 @@
 # Payroll Management System
 
-A full-stack web application designed to manage employee payrolls efficiently. This system allows HR/admins to handle employee details, attendance, salary generation, and payslip management in an organized and automated manner.
+A full-stack web application designed to manage employee payrolls efficiently. This system allows HR/admins to handle employee details, salary generation, and payslip management in an organized and automated manner.
 
 ## 🛠️ Tech Stack
 
@@ -26,13 +26,13 @@ A full-stack web application designed to manage employee payrolls efficiently. T
 git clone https://github.com/syedruksana34/payroll-management-system.git
 
 2. Frontend Setup
-bash
+
 cd payroll-frontend
 npm install
 npm start
 
 3. Backend Setup
-bash
+
 cd payroll-backend
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
@@ -56,7 +56,7 @@ DATABASES = {
 }
 
 5. Migrate and Create Superuser
-bash
+
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
@@ -69,7 +69,7 @@ Admin Panel: http://127.0.0.1:8000/admin/
 Frontend: http://localhost:3000/
 
 📁 Project Structure
-perl
+
 payroll-management-system/
 ├── payroll-frontend/    # React frontend code
 ├── payroll-backend/     # Django backend code
