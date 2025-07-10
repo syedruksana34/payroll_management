@@ -24,7 +24,7 @@ A full-stack web application designed to manage employee payrolls efficiently. T
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/payroll-management-system.git
+git clone https://github.com/syedruksana34/payroll-management-system.git
 
 2. Frontend Setup
 bash
