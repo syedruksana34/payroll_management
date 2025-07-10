@@ -20,7 +20,6 @@ password-sharuk@14
 **Backend:** Django (Python)  
 **Database:** MySQL  
 **API:** RESTful APIs (Django REST Framework)
-
 **Deployment:** Render.com, Whitenoise
 
 ## 📌 Features
